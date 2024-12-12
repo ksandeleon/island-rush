@@ -1,2 +1,2 @@
 # Island Rush!
-An ASCII Game made by my team during my 2nd year college
+An ASCII-Based game developed for my sophomore years midterms
